@@ -1,2 +1,2 @@
 # tpvis
-Trabajo Práctico - Visualización de Datos Personales
+Trabajo Práctico Individual - Visualización de Datos Personales
